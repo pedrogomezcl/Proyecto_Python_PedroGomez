@@ -1,1 +1,1 @@
-print('Holi1236868')
+print(2+2)
